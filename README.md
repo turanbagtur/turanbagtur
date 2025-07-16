@@ -1,59 +1,39 @@
-<h1 align="center">Merhaba, ben Turan 👋</h1>
+<h1 align="center">Hi there, I'm Turan 👋</h1>
 
 <p align="center">
-  💻 Bilgisayar tutkunu | 🌐 Web geliştirici | 📚 Öğrenmeye aç | 🚀 Projelerle büyüyen
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Flutter+%7C+Dart+%7C+Python;Automation+Enthusiast;Always+Learning+%F0%9F%93%9A;Tech+is+my+language" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📌 Hakkımda
+### 🧠 About Me
 
-- 🧠 Yeni teknolojileri öğrenmeye bayılırım.
-- 🛠️ Şu anda Flutter ile mobil uygulama geliştiriyorum.
-- 🎯 Hedefim: Açık kaynak dünyasına katkı sağlayan projeler üretmek.
-- 📍 Türkiye'de yaşıyorum.
+- 👨‍💻 I'm currently developing with **Flutter**
+- ⚙️ I love automation, clean UI, and scalable solutions
+- 🌱 Constantly learning new tools, especially in the mobile & AI ecosystem
+- 🧩 Focused on building smart, useful, and efficient software
 
 ---
 
-### 🧰 Kullandığım Teknolojiler
+### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📂 Öne Çıkan Projeler
-
-| Proje | Açıklama | Link |
-|-------|----------|------|
-| 📱 **Flutter Tarif Uygulaması** | Modern UI ile yemek tarifleri uygulaması | [Repoya Git](https://github.com/kullaniciadi/tarif-uygulamasi) |
-| 📚 **Manga Çeviri Otomasyonu** | Görseller üzerinden otomatik manga çevirisi | [Repoya Git](https://github.com/kullaniciadi/manga-translator) |
-| 🤖 **Discord Manga Botu** | Manga sitene yeni yüklenen bölümleri Discord'da duyurur | [Repoya Git](https://github.com/kullaniciadi/manga-discord-bot) |
-
----
-
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=transparent" height="150"/>
 </p>
 
 ---
 
-### 🌐 Beni Takip Et
-
-- 📺 YouTube: [AISunary](https://youtube.com/@AISunary)
-- 🌍 Web: [mangaruhu.com](https://mangaruhu.com)
-- 💬 Discord: `solderet` olarak ulaşabilirsiniz
-
----
-
-> ✨ “Kod yazmak, görünmeyeni görünür kılmaktır.”  
-> — Bilinmeyen Bir Yazılımcı
-
+<!-- Clean ending -->
