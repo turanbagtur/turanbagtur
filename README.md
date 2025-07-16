@@ -1,39 +1,28 @@
-<h1 align="center">Hi there, I'm Turan 👋</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00ffc3">Turan</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Flutter+%7C+Dart+%7C+Python;Automation+Enthusiast;Always+Learning+%F0%9F%93%9A;Tech+is+my+language" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFC3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Builder;Code+Craftsman;UI/UX+Dreamer;Tech+is+my+home" alt="Typing SVG" />
 </p>
 
 ---
-
-### 🧠 About Me
-
-- 👨‍💻 I'm currently developing with **Flutter**
-- ⚙️ I love automation, clean UI, and scalable solutions
-- 🌱 Constantly learning new tools, especially in the mobile & AI ecosystem
-- 🧩 Focused on building smart, useful, and efficient software
-
----
-
-### 🚀 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=transparent" height="150"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 ---
 
-<!-- Clean ending -->
+### 🧬 About Me
+
+```text
+• 💻 I build apps, tools & automations that solve real problems.
+• 🚀 Currently crafting cross-platform magic using Flutter.
+• 🔧 Strong background in both frontend and backend development.
+• 🧠 Focused on clean code, scalable architecture, and elegant UI.
+
+🧰 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,html,css,php,js,firebase,git" /> </p>
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=turanbagtur&show_icons=true&theme=radical&border_radius=10" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turanbagtur&layout=compact&theme=radical&border_radius=10" height="180"/> </p>
+
