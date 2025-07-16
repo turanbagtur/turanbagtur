@@ -19,9 +19,9 @@
 • 🔧 Strong background in both frontend and backend development.
 • 🧠 Focused on clean code, scalable architecture, and elegant UI.
 
-🧰 Tech Stack
+<h3>🧰 Tech Stack</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,html,css,php,js,firebase,git" /> </p>
 
-📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=turanbagtur&show_icons=true&theme=radical&border_radius=10" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turanbagtur&layout=compact&theme=radical&border_radius=10" height="180"/> </p>
 
