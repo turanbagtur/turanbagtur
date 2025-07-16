@@ -14,7 +14,6 @@
 
 ### 🧬 About Me
 
-```text
 • 💻 I build apps, tools & automations that solve real problems.
 • 🚀 Currently crafting cross-platform magic using Flutter.
 • 🔧 Strong background in both frontend and backend development.
