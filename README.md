@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00ffc3">Turan</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFC3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Builder;Code+Craftsman;UI/UX+Dreamer;Tech+is+my+home" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFC3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Website+Designer;Code+Craftsman;UI/UX+Dreamer;Tech+is+my+home" alt="Typing SVG" />
 </p>
 
 ---
