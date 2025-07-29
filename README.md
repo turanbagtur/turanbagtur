@@ -12,12 +12,6 @@
 
 ---
 
-### 🧬 About Me
-
-• 💻 I build apps, tools & automations that solve real problems.
-• 🔧 Strong background in both frontend and backend development.
-• 🧠 Focused on clean code, scalable architecture, and elegant UI.
-
 <h3>🧰 Tech Stack</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,php,js,c++" /> </p>
 
