@@ -1,67 +1,52 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" /> 
-  Hey there, I'm <span style="color:#00ffc3">Turan</span>
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;WordPress+Specialist;Server+Administrator;MangaRuhu+Owner;AI+Tool+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ffc3&height=150&section=header&text=TURAN&fontSize=70&fontColor=1a1a1a&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turanbagtur&theme=radical" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFC3&center=true&vCenter=true&width=600&lines=SYSTEM+STATUS:+ACTIVE;OPTIMIZING+WORDPRESS+CORES...;SERVER+ADMINISTRATION+IN+PROGRESS;CRAFTING+NEXT+GEN+UI" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 About Me
-- 🚀 Owner & Lead Developer at **Mangaruhu.com**.
-- 🛠️ Specialized in **Custom WordPress Plugins** and **LiteSpeed** server optimization.
-- 🤖 Passionate about integrating **AI APIs** into web workflows.
-- ⚡ Focus: Performance-driven, minimalist, and user-centric web design.
-
----
-
-### 🧰 Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" /><br />PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="40" alt="JS" /><br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wp" width="40" alt="WordPress" /><br />WordPress
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" /><br />Linux/Server
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" /><br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++" /><br />C++
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Statistics
+### 🚀 Activity Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turanbagtur&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turanbagtur&layout=compact&theme=radical&hide_border=true&langs_count=6" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=turanbagtur&show_icons=true&theme=radical&hide_border=true&title_color=00ffc3&icon_color=00ffc3&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turanbagtur&layout=compact&theme=radical&hide_border=true&title_color=00ffc3&text_color=ffffff" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turanbagtur&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turanbagtur&theme=radical&hide_border=true&stroke=00ffc3&ring=00ffc3&fire=00ffc3" width="100%" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://mangaruhu.com" target="blank"><img src="https://img.shields.io/badge/Website-00FFC3?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" /></a>
-<a href="https://github.com/turanbagtur" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="turanbagtur" /></a>
+### 🛠️ Core Technologies (Auto-Update)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,wp,linux,mysql,nginx,python,cpp,html,css,discord,figma&perline=6" />
+</p>
+
+---
+
+### 📈 System Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turanbagtur&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=turanbagtur&theme=radical" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=turanbagtur&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=turanbagtur&theme=radical" width="49%" />
+</p>
+
+---
+
+### 📡 Network & Socials
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-00ffc3?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/Server-LiteSpeed-white?style=for-the-badge&logo=litespeed&logoColor=red" />
+  <a href="https://mangaruhu.com"><img src="https://img.shields.io/badge/Project-MangaRuhu-blueviolet?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/snake.svg" width="100%" />
 </p>
