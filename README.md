@@ -26,9 +26,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=turanbagtur&theme=radical&hide_border=true&stroke=00ffc3&background=00000000" width="80%" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-00ffc3?style=flat-square&logo=signal&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dev-WordPress-white?style=flat-square&logo=wordpress&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Server-LiteSpeed-red?style=flat-square&logo=litespeed&logoColor=white" />
-</p>
